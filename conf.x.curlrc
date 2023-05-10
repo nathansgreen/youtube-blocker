@@ -1,0 +1,4 @@
+-H "x-origin: https://www.youtube.com"
+-H "x-youtube-bootstrap-logged-in: true"
+-H "x-youtube-client-name: 1"
+-H "x-youtube-client-version: 2.20230508.00.00"
