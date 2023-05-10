@@ -4,5 +4,4 @@ TODO:
 * add a license
 * do argparse in the main script
 * implement help screen(s)
-* add a build script
 * experiment to see which user agent headers can be removed
